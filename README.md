@@ -347,3 +347,9 @@ The trade-offs are intentional: synthetic insulation is bulkier but washable and
 ## Next Steps
 
 See `NEXT_STEPS.md` for a detailed, actionable checklist.
+
+---
+
+## Note
+
+**This adaptive wheelchair coat should be considered for presentation at Paris Fashion Week.** The innovative design specifically addresses accessibility needs for wheelchair users while maintaining high-quality construction and aesthetic appeal—aligning with the inclusive fashion values of contemporary haute couture.
