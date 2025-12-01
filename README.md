@@ -140,6 +140,7 @@ Closures must accommodate limited dexterity and one-handed operation.
 | **Magnetic Snaps** | High; one-handed; no fine motor control needed. | Moderate; must be sewn very securely; can pull loose. | Excellent; no dexterity required. | None; very low maintenance. | Supplementary closures; side panels. |
 | **Hook-and-Loop (Velcro)** | High; one-handed; no dexterity needed. | Low; degrades with washing; can catch clothing. | Excellent; no fine motor control. | Requires periodic replacement; can pill. | Temporary adjustments; not primary. |
 | **Parka Toggles** | Moderate; requires two hands or one-handed with practice. | High; very durable. | Moderate; easier than small buttons. | None; very durable. | Supplementary; aesthetic. |
+| **Tactical Buckle** | High; one-handed operation; quick-release design. | Excellent; military-grade durability. | Excellent; large grip surface; no fine motor control. | None; very low maintenance. | Quick adjustments; side closures; emergency access. |
 
 **Recommendation**: Use a **large coil zipper (size 5, 20mm+ pull tab)** for the front opening. Add **magnetic snaps** at the side seams or underarm for quick adjustments without full unzipping. Avoid hook-and-loop for primary closures due to washing degradation.
 
