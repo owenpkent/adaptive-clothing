@@ -31,6 +31,26 @@ The wheelchair coat addresses the unique thermal and ergonomic needs of seated u
 
 ---
 
+## Photos
+
+### Sewing Template
+
+The coat uses a custom pattern designed for seated posture, with an extended back panel and shortened front.
+
+![Pattern outline on paper](attachment_2.jpeg)
+
+![Fabric cut from pattern](attachment_1.jpeg)
+
+### Finished Coat in Use
+
+The completed coat shown on a wheelchair user with his dog.
+
+![Coat in use - front view](attachment.jpg)
+
+![Coat in use - side view](<attachment (1).jpg>)
+
+---
+
 ## Material Selection & Trade-offs
 
 ### Outer Shell Fabric
