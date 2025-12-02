@@ -181,6 +181,24 @@ Closures must accommodate limited dexterity and one-handed operation.
 | **Magnetic Snaps** | 4–6 | 18–20mm diameter | Side closures; high-quality, sewn securely. |
 | **Bias Tape** | 4–6 yd | 1" double-fold, nylon or polyester | Seam finishing; armholes, neckline, hem. |
 
+### Sourcing Options
+
+Recommended vendors for these specific technical materials:
+
+- **Ripstop by the Roll** (US):
+  - *Best for:* 1.7 oz MTN XL Hybrid Ripstop, Climashield APEX, Gutermann Mara 70 thread.
+  - *Notes:* Primary source for "Build 1" materials.
+- **Discovery Fabrics** (Canada/US):
+  - *Best for:* Polartec Micro Fleece (high-end technical fleece).
+- **Seattle Fabrics** (US):
+  - *Best for:* Hardware (zippers, snaps), technical fabrics, and notions.
+- **Extremtextil** (Europe):
+  - *Best for:* High-quality European alternative for ripstop and technical insulation.
+- **Wawak** (US):
+  - *Best for:* Bulk thread, professional sewing supplies, zippers.
+- **Fabric Direct Warehouse** (US):
+  - *Best for:* Discounted general fabrics, fleece, and basic notions.
+
 ### Tools & Notions (One-Time)
 
 - Ballpoint or stretch needles (size 80/12–90/14) for synthetic fabrics.
