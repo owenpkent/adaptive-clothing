@@ -1,15 +1,16 @@
-# Adaptive Wheelchair Coat: Synthetic Down Puffer
+# Adaptive Wheelchair Vest: Synthetic Down Puffer
 
-A custom-fitted, warm-weather coat designed for wheelchair users in a seated posture. This project documents the design intent, material selection rationale, and construction methodology for a durable, accessible puffer jacket that prioritizes pressure-point avoidance and ease of donning.
+A custom-fitted, warm-weather **sleeveless vest** designed for wheelchair users in a seated posture. This project documents the design intent, material selection rationale, and construction methodology for a durable, accessible puffer vest that prioritizes pressure-point avoidance and ease of donning.
 
 ## Project Overview
 
 ### Design Intent
 
-The wheelchair coat addresses the unique thermal and ergonomic needs of seated users:
+The wheelchair vest addresses the unique thermal and ergonomic needs of seated users:
 
-- **Seated posture shaping**: The coat is cut and fitted for a seated position, not a standing one. This means shorter front panels, extended back panels, and adjusted sleeve geometry to avoid bunching or gaps when seated.
-- **Pressure-point avoidance**: Seams and bulk are strategically placed away from the back (where the user contacts the chair), under the arms (where friction and pressure occur during transfers), and across the shoulders (where straps or harnesses may sit).
+- **Seated posture shaping**: The vest is cut and fitted for a seated position, not a standing one. This means shorter front panels, extended back panels, and optimized armhole geometry to avoid bunching.
+- **Sleeveless Design**: Eliminates bulk in the arms for users who self-propel or prefer layering over other garments.
+- **Pressure-point avoidance**: Seams and bulk are strategically placed away from the back (where the user contacts the chair) and across the shoulders.
 - **Easy on/easy off**: Closures and construction prioritize limited dexterity and one-handed operation where possible.
 - **Daily durability**: Synthetic insulation, reinforced seams, and ripstop outer shells withstand frequent transfers, wheelchair contact, and regular washing.
 
@@ -95,11 +96,15 @@ The lining reduces friction during donning, contains insulation, and provides a 
 
 | Material | Down-Proof | Friction | Breathability | Best For |
 |----------|-----------|----------|---------------|----------|
-| **Nylon Taffeta** | Yes; tight weave. | Very low; slick surface aids donning. | Low; traps some moisture. | **Recommended for full lining.** |
+| **Nylon Taffeta** | Yes; tight weave. | Very low; slick surface aids donning. | Low; traps some moisture. | **Recommended for full lining (especially sleeves).** |
 | **Polyester Taffeta** | Yes; tight weave. | Low; slightly more friction than nylon. | Low; similar to nylon. | Alternative if nylon unavailable. |
+| **Microfleece** | No; requires backing or separate baffle layer. | High; "grabs" clothing layers. | High; wicks moisture well. | Body panels for warmth; Collars. **Do not use in sleeves.** |
+| **Brushed Tricot** | Varies; check weave. | Moderate; softer than taffeta. | Moderate. | Pockets, collar, chin guard. |
 | **Mesh (no-see-um)** | No; too open; insulation migrates. | Low; smooth. | High; excellent airflow. | **Not recommended for full lining; use only for baffle windows if needed.** |
 
-**Recommendation**: Use **nylon taffeta, 20D–30D**, for the full inner lining. It is down-proof, reduces friction, and is easy to sew.
+**Recommendation**:
+- **Standard**: Use **nylon taffeta, 20D–30D**, for the full inner lining. It is down-proof, reduces friction, and is easy to sew.
+- **Cozy/Hybrid**: Use **Microfleece** for the back panel and collar for warmth, but **maintain Nylon Taffeta in the sleeves**. This ensures the user can still slide their arms in easily while enjoying a softer feel against the body.
 
 ---
 
@@ -146,33 +151,35 @@ Closures must accommodate limited dexterity and one-handed operation.
 
 ---
 
-### Thread
+### Thread & Needle Recommendations
 
-Use **polyester thread** (40-weight or heavier) throughout. Polyester is stronger than cotton, resists UV degradation, and works well with synthetic fabrics. For seams under stress (underarms, closures), use **bonded nylon thread** or double-stitch with polyester.
+- **Serger**: **Highly Recommended** for finishing raw edges and preventing fraying on synthetic fabrics.
+- **Thread**:
+  - **Tera 80 / Tex 35**: Ideal for general construction and lightweight fabrics.
+  - **Mara 70 / Tex 40**: Stronger option for stress points and assembly.
+- **Needle**:
+  - **Universal 80/12 or 90/14**: Use 80/12 for lighter fabrics (lining, 20D shell) and 90/14 for multiple layers or heavier sections.
 
 ---
 
 ## Materials List
 
-### Fabric & Insulation
+### Build 1 Configuration (Selected Materials)
 
 | Item | Quantity | Spec | Notes |
 |------|----------|------|-------|
-| **Outer Shell (Nylon Ripstop)** | 2–2.5 yd | 20D–30D, uncoated | High-wear panels: back, shoulders, underarms. |
-| **Outer Shell (Polyester Ripstop)** | 1–1.5 yd | 20D–30D, uncoated | Lower-stress panels: front, sleeves. |
-| **Inner Lining (Nylon Taffeta)** | 2–2.5 yd | 20D–30D | Full interior coverage. |
-| **Synthetic Insulation (Sheet)** | 2–4 oz/yd² | Climashield Apex or PrimaLoft | Total weight: 8–16 oz depending on climate. |
-| **Baffle Material (Nylon Ripstop)** | 0.5–1 yd | 20D, cut into 2–3" strips | Prevents insulation migration. |
+| **Outer Shell** | 2 yd | **1.7 oz MTN XL Hybrid Ripstop Nylon** (Charcoal Gray) | ~40D equivalent. Durable, hybrid weave. Fits 4x4' pattern layout. |
+| **Inner Lining** | 2 yd | **Polartec 100 Micro Fleece** (Cool Gray) | Warm, breathable, durable. Replaces inner nylon layer. |
+| **Insulation** | 2 yd | **Climashield APEX 5.0 oz/yd²** | Continuous filament insulation. No quilting/baffles required for stability. |
+| **Thread** | 2 spools | **Gutermann Mara 70 (Tex 40)** | Gray to match. Strong polyester thread suitable for 1.7 oz fabric. |
 
-### Notions & Hardware
+### Hardware & Notions
 
 | Item | Quantity | Spec | Notes |
 |------|----------|------|-------|
 | **Coil Zipper** | 1 | Size 5, 20–24" length | Front opening; large pull tab. |
 | **Magnetic Snaps** | 4–6 | 18–20mm diameter | Side closures; high-quality, sewn securely. |
-| **Polyester Thread** | 2–3 spools | 40-weight or heavier | All seams; consider bonded nylon for stress points. |
 | **Bias Tape** | 4–6 yd | 1" double-fold, nylon or polyester | Seam finishing; armholes, neckline, hem. |
-| **Elastic** | 1–2 yd | 0.5"–1" wide, soft | Cuff closures; optional. |
 
 ### Tools & Notions (One-Time)
 
@@ -193,65 +200,53 @@ Use **polyester thread** (40-weight or heavier) throughout. Polyester is stronge
 2. **Adapt pattern for seated posture**:
    - Shorten front panels by 2–4 inches (depending on torso length).
    - Extend back panel by 3–6 inches to cover the lower back and chair contact zones.
-   - Adjust sleeve length and cap to account for seated arm position (typically 1–2 inches shorter).
-   - Widen underarm gussets to reduce pressure and allow arm movement.
+   - **Deepen armholes** to prevent chafing when self-propelling.
    - Reduce shoulder seam width by 0.5–1 inch to avoid harness interference.
-3. **Cut pattern pieces**: Mark high-wear zones (back, underarms) for nylon ripstop; use polyester for lower-stress areas.
+3. **Cut pattern pieces**: Mark high-wear zones (back, underarms) for nylon ripstop.
 
-### Phase 2: Baffle Construction
+### Phase 2: Baffle Construction (Optional with Climashield)
 
-1. **Cut baffle strips**: Nylon ripstop, 2–3 inches wide, length matching the insulation panel dimensions.
-2. **Plan baffle layout**: Vertical channels every 4–6 inches to prevent insulation bunching. Horizontal baffles at waist and chest to stabilize insulation vertically.
-3. **Sew baffles to inner lining**:
-   - Lay inner lining flat.
-   - Pin baffle strips perpendicular to the lining surface.
-   - Sew baffles using a straight stitch, 0.25" seam allowance, with a walking foot to prevent puckering.
-   - Ensure baffles are taut but not stretched; they should form channels, not pockets.
+*Note: Climashield Apex is stable and does not require baffles. Skip this phase if using Apex.*
 
 ### Phase 3: Insulation Insertion
 
-1. **Prepare insulation sheets**: Cut to match baffle channel dimensions.
-2. **Insert insulation**:
-   - If using sheet insulation: Slide sheets into baffle channels and tack at edges with a few hand stitches or temporary spray adhesive.
-   - If using loose-fill: Distribute evenly into channels and seal channel openings with a temporary stitch line (to be removed after shell assembly).
-3. **Verify even distribution**: Check for lumps, gaps, or uneven thickness. Adjust as needed.
+1. **Prepare insulation sheets**: Cut to match pattern dimensions.
+2. **Secure insulation**:
+   - Tack insulation to the wrong side of the **Outer Shell** or **Inner Lining** using a long basting stitch or temporary spray adhesive around the edges.
 
 ### Phase 4: Shell Assembly
 
 1. **Sew outer shell panels**:
-   - Join shoulder seams (nylon ripstop back to polyester front).
-   - Attach sleeves, using a walking foot to prevent slipping.
-   - Sew side seams, reinforcing underarm gussets with a second stitch line or zigzag.
+   - Join shoulder seams.
+   - Sew side seams.
    - Use 0.5" seam allowance for durability.
 2. **Finish shell seams**:
    - Trim seam allowances to 0.25".
-   - Apply bias tape or a zigzag stitch to prevent fraying.
-   - Press seams flat (use low heat on synthetic fabrics).
+   - Press seams flat.
 
-### Phase 5: Shell & Lining Assembly
+### Phase 5: Vest Assembly
 
-1. **Prepare lining with insulation**:
-   - Ensure baffles and insulation are secure and evenly distributed.
+1. **Prepare lining**:
+   - Sew lining shoulder and side seams (Microfleece).
 2. **Join shell and lining**:
    - Place shell and lining right-sides together.
-   - Sew around neckline, armholes, and hem, leaving a 6–8 inch opening at the lower back or side seam for turning.
+   - Sew around neckline and hem, leaving a 6–8 inch opening at the lower back or side seam for turning.
+   - **Armholes**: Can be sewn now (bagging method) or finished later with bias tape (easier for beginners).
    - Use a 0.5" seam allowance.
-3. **Turn coat right-side out** through the opening.
-4. **Hand-stitch the opening closed** using a ladder stitch for an invisible seam.
-5. **Topstitch** around neckline and armholes (0.25" from edge) to secure lining and add durability.
+3. **Turn vest right-side out** through the opening.
+4. **Hand-stitch the opening closed** using a ladder stitch.
+5. **Topstitch** around neckline and hem (0.25" from edge).
 
-### Phase 6: Closures & Adaptive Features
+### Phase 6: Closures & Finishing
 
 1. **Install zipper**:
-   - Mark zipper placement on front panels (typically 1" from center front).
-   - Sew zipper tape to shell and lining using a zipper foot, 0.25" from teeth.
-   - Ensure pull tab is large and accessible; consider adding a leather or fabric loop for easier gripping.
-2. **Install magnetic snaps**:
-   - Mark placement at side seams or underarm (typically 4–6 inches apart).
-   - Reinforce snap locations with small fabric patches (1" × 1") on both shell and lining.
-   - Sew snaps securely with multiple passes; test for holding strength.
-3. **Add elastic cuffs** (optional):
-   - Sew 0.5"–1" wide elastic into sleeve cuffs to reduce drafts and prevent insulation migration.
+   - Mark zipper placement on front panels.
+   - Sew zipper tape to shell and lining.
+2. **Finish Armholes**:
+   - If not bagged in Phase 5, bind raw armhole edges with **Bias Tape** for a clean, durable finish.
+3. **Install magnetic snaps**:
+   - Mark placement at side seams.
+   - Sew snaps securely.
 
 ### Phase 7: Finishing
 
