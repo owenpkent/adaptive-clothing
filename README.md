@@ -38,17 +38,17 @@ The wheelchair vest addresses the unique thermal and ergonomic needs of seated u
 
 The coat uses a custom pattern designed for seated posture, with an extended back panel and shortened front.
 
-![Pattern outline on paper](attachment_2.jpeg)
+![Pattern outline on paper](images/pattern-outline.jpg)
 
-![Fabric cut from pattern](attachment_1.jpeg)
+![Fabric cut from pattern](images/fabric-cut.jpg)
 
 ### Finished Coat in Use
 
 The completed coat shown on a wheelchair user with his dog.
 
-![Coat in use - front view](attachment.jpg)
+![Coat in use - front view](images/coat-front-view.jpg)
 
-![Coat in use - side view](<attachment (1).jpg>)
+![Coat in use - side view](images/coat-side-view.jpg)
 
 ---
 
@@ -198,6 +198,8 @@ Recommended vendors for these specific technical materials:
   - *Best for:* Bulk thread, professional sewing supplies, zippers.
 - **Fabric Direct Warehouse** (US):
   - *Best for:* Discounted general fabrics, fleece, and basic notions.
+- **Rockywoods** (US):
+  - *Best for:* [Microfiber Fabric - Snow MARPAT](https://rockywoods.com/products/microfiber-fabric-snow-marpat?_pos=1&_sid=aaf1f2639&_ss=r) and other digital camo patterns.
 
 ### Tools & Notions (One-Time)
 
